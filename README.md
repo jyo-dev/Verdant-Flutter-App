@@ -1,4 +1,4 @@
-# login_app
+# Verdant
 
 A new Flutter application.
 
