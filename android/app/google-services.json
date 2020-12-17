@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "567093373469",
+    "firebase_url": "https://verdantcropcare-6a343.firebaseio.com",
+    "project_id": "verdantcropcare-6a343",
+    "storage_bucket": "verdantcropcare-6a343.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567093373469:android:f8c049250356eebd4eb4f4",
+        "android_client_info": {
+          "package_name": "com.verdant.cropcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567093373469-2bi02ch8fkfjrp5oo31g49vct4bqi09l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.verdant.cropcare",
+            "certificate_hash": "aff860de3bd728633e08193f7f383bb50bbdbd78"
+          }
+        },
+        {
+          "client_id": "567093373469-c5fbkc5ss9mbc0g4ej5j4fi9br924mlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1ul3EjxBhZRZPkBx7q5NJTpbfOMnOKwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567093373469-c5fbkc5ss9mbc0g4ej5j4fi9br924mlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
